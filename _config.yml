@@ -129,6 +129,7 @@ comments:
   gitalk:
     clientID    : 538e26e280f507445f41 # GitHub Application Client ID
     clientSecret: 4c78e53909ba172068be8d1bbd1b62a321598fe5 # GitHub Application Client Secret
+    proxy: 'https://cors-anywhere.azm.workers.dev/'
     repository  : LanglandsLearningGroup.github.io # GitHub repo
     owner       : LanglandsLearningGroup # GitHub repo owner
     admin: YijunYuan # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
