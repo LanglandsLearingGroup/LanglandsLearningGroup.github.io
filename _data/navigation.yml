@@ -1,29 +1,29 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Video Lectures
+      en      : &EN       Videos & Lectures
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  视频讲座
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
+      #zh-Hans : &ZH_HANS  视频讲座
+      #zh      : *ZH_HANS
+      #zh-CN   : *ZH_HANS
+      #zh-SG   : *ZH_HANS
       # @end locale config
     url: /video_lecture.html
 
   - titles:
       # @start locale config
-      en      : &EN       Discussion
+      en      : &EN       Discussions
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  讨论区
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
+      #zh-Hans : &ZH_HANS  讨论区
+      #zh      : *ZH_HANS
+      #zh-CN   : *ZH_HANS
+      #zh-SG   : *ZH_HANS
       # @end locale config
     url: /discussion.html?tag=discussion
 
@@ -35,34 +35,34 @@ header:
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  数论数据库
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
+      #zh-Hans : &ZH_HANS  数论数据库
+      #zh      : *ZH_HANS
+      #zh-CN   : *ZH_HANS
+      #zh-SG   : *ZH_HANS
       # @end locale config
     url: /databases.html    
 
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       Archives
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  归档
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  歸檔
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
-      ko-KR   : *KO
-      fr      : &FR       Archives
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
+      #zh-Hans : &ZH_HANS  归档
+      #zh      : *ZH_HANS
+      #zh-CN   : *ZH_HANS
+      #zh-SG   : *ZH_HANS
+      #zh-Hant : &ZH_HANT  歸檔
+      #zh-TW   : *ZH_HANT
+      #zh-HK   : *ZH_HANT
+      #ko      : &KO       아카이브
+      #ko-KR   : *KO
+      #fr      : &FR       Archives
+      #fr-BE   : *FR
+      #fr-CA   : *FR
+      #fr-CH   : *FR
+      #fr-FR   : *FR
+      #fr-LU   : *FR
       # @end locale config
     url: /archive.html
