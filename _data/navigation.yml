@@ -30,7 +30,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Databases
+      en      : &EN       Databases & Tools
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
