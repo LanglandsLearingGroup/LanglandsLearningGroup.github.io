@@ -44,7 +44,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Archives
+      en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
