@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Number Theory Related Databases
+title: Databases & Tools
 mathjax: true
 permalink: databases.html
 ---
